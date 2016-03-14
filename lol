@@ -1,3 +1,3 @@
 asdadsasdasasd
 
-añadido desde el remoto ARchlinux
+añadido desde el remoto ARchlinux testing man 
